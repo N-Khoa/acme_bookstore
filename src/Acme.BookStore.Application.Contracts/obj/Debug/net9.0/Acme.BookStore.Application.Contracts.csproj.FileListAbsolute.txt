@@ -1,0 +1,16 @@
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/bin/Debug/net9.0/Acme.BookStore.Application.Contracts.deps.json
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/bin/Debug/net9.0/Acme.BookStore.Application.Contracts.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/bin/Debug/net9.0/Acme.BookStore.Application.Contracts.pdb
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/bin/Debug/net9.0/Acme.BookStore.Domain.Shared.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/bin/Debug/net9.0/Acme.BookStore.Domain.Shared.pdb
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.csproj.AssemblyReference.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.AssemblyInfoInputs.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.AssemblyInfo.cs
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.csproj.CoreCompileInputs.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.Boo.7837D992.Up2Date
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/refint/Acme.BookStore.Application.Contracts.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.pdb
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/ref/Acme.BookStore.Application.Contracts.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/Debug/net9.0/Acme.BookStore.Application.Contracts.sourcelink.json

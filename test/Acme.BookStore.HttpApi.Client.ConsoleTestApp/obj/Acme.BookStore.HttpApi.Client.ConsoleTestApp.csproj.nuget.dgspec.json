@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/khoa/Desktop/hqsoft/Acme.BookStore/test/Acme.BookStore.HttpApi.Client.ConsoleTestApp/Acme.BookStore.HttpApi.Client.ConsoleTestApp.csproj": {}
+  },
+  "projects": {
+    "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj",
+        "projectName": "Acme.BookStore.Application.Contracts",
+        "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj",
+        "packagesPath": "/home/khoa/.nuget/packages/",
+        "outputPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/khoa/Desktop/hqsoft/Acme.BookStore/NuGet.Config",
+          "/home/khoa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Volo.Abp.Account.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.FeatureManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.Identity.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.PermissionManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.SettingManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.TenantManagement.Application.Contracts": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "/home/khoa/.nuget/packages/",
+        "outputPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/khoa/Desktop/hqsoft/Acme.BookStore/NuGet.Config",
+          "/home/khoa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.BlobStoring.Database.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.GlobalFeatures": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.OpenIddict.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/Acme.BookStore.HttpApi.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/Acme.BookStore.HttpApi.Client.csproj",
+        "projectName": "Acme.BookStore.HttpApi.Client",
+        "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/Acme.BookStore.HttpApi.Client.csproj",
+        "packagesPath": "/home/khoa/.nuget/packages/",
+        "outputPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/khoa/Desktop/hqsoft/Acme.BookStore/NuGet.Config",
+          "/home/khoa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj": {
+                "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Application.Contracts/Acme.BookStore.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Volo.Abp.Account.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.FeatureManagement.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.Identity.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.PermissionManagement.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.SettingManagement.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.TenantManagement.HttpApi.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/khoa/Desktop/hqsoft/Acme.BookStore/test/Acme.BookStore.HttpApi.Client.ConsoleTestApp/Acme.BookStore.HttpApi.Client.ConsoleTestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khoa/Desktop/hqsoft/Acme.BookStore/test/Acme.BookStore.HttpApi.Client.ConsoleTestApp/Acme.BookStore.HttpApi.Client.ConsoleTestApp.csproj",
+        "projectName": "Acme.BookStore.HttpApi.Client.ConsoleTestApp",
+        "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/test/Acme.BookStore.HttpApi.Client.ConsoleTestApp/Acme.BookStore.HttpApi.Client.ConsoleTestApp.csproj",
+        "packagesPath": "/home/khoa/.nuget/packages/",
+        "outputPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/test/Acme.BookStore.HttpApi.Client.ConsoleTestApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/khoa/Desktop/hqsoft/Acme.BookStore/NuGet.Config",
+          "/home/khoa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/Acme.BookStore.HttpApi.Client.csproj": {
+                "projectPath": "/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.HttpApi.Client/Acme.BookStore.HttpApi.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Volo.Abp.Http.Client.IdentityModel": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

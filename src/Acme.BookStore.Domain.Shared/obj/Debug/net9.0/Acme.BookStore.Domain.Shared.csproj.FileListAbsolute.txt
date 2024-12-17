@@ -1,0 +1,14 @@
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/bin/Debug/net9.0/Acme.BookStore.Domain.Shared.deps.json
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/bin/Debug/net9.0/Acme.BookStore.Domain.Shared.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/bin/Debug/net9.0/Acme.BookStore.Domain.Shared.pdb
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.csproj.AssemblyReference.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.AssemblyInfoInputs.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.AssemblyInfo.cs
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/refint/Acme.BookStore.Domain.Shared.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.pdb
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/ref/Acme.BookStore.Domain.Shared.dll
+/home/khoa/Desktop/hqsoft/Acme.BookStore/src/Acme.BookStore.Domain.Shared/obj/Debug/net9.0/Acme.BookStore.Domain.Shared.sourcelink.json
